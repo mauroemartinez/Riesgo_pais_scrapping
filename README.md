@@ -26,4 +26,5 @@ Para ejecutar el proyecto, necesitarás tener instalado Python y las librerías 
 
 ## 🤝 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir lo que te gustaría cambiar o añadir.
-Google Drive link para descargar Excel, PBI, notebook e imágenes: https://drive.google.com/drive/folders/1DwNKhmNKQAGHIUVryszt9OoqkR3U91og?usp=sharing
+
+Link a Google Drive para descargar Excel, PBI, notebook e imágenes: https://drive.google.com/drive/folders/1DwNKhmNKQAGHIUVryszt9OoqkR3U91og?usp=sharing
