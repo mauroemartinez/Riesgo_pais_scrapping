@@ -1,4 +1,4 @@
-# 🤖 Riesgo pais webb scraping
+# 🤖 Riesgo pais web scraping
 ## 🎯 Objetivo
 Este proyecto utiliza un bot de webscrapping para descargar los **datos históricos del riesgo país de Argentina** desde la web de **Ámbito Financiero**. Los datos se procesan y se visualizan utilizando varias librerías de **Python**.
 
